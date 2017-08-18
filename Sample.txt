@@ -1,3 +1,6 @@
 this is my first file using GIT
 adding txt to file
 devops group
+added 2nd line
+added 3rd line
+adding new line in Dev branch

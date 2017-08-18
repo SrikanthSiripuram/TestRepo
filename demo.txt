@@ -1,0 +1,6 @@
+this is 2nd file using GIT
+trying to merge file
+branch file
+added 2nd line
+adding txt for DEV branch
+added 3rd line
